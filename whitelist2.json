@@ -125,7 +125,7 @@
         }
       ]
     },
-    "b3ebe9021fa009e8e529b98b79b1634d3434b775bcbb19dfda03635243fbb0bbcd01f4e3359eaba44c5c8c68b8607398c8c0c7ef1f8a010c28f15c9bc252be04": {
+    "e2686b9eae6d376290465aa48a15e116da07eb1d9baa21fcff827b0b0f8722db74d205af14a972407222bf5315d54ae12e07263eb3073075f1bfa879c67844af": {
       "NameColor": {
         "r": 113,
         "g": 198,
@@ -134,11 +134,11 @@
       "Tags": [
         {
           "TagColor": {
-            "r": 113,
-            "g": 198,
-            "b": 0
+            "r": 0,
+            "g": 0,
+            "b": 255
           },
-          "TagText": "PRISM OWNER"
+          "TagText": "Pro"
         }
       ]
     },
